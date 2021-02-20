@@ -6,4 +6,5 @@
 template/
 workspace/
 master_glm/
+master_glm_run/
 *checkpoint.ipynb
