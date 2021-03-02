@@ -8,6 +8,6 @@ workspace/*
 master_glm/
 master_glm_run/
 *checkpoint.ipynb
-*.ipynb_checkpoints
+*.ipynb_checkpoints/
 
 !workspace/*.txt
