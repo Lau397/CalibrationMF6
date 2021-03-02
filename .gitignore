@@ -5,7 +5,9 @@
 *.log
 template/
 workspace/*
-!*.txt
 master_glm/
 master_glm_run/
 *checkpoint.ipynb
+
+
+!workspace/*.txt
