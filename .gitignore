@@ -4,7 +4,8 @@
 *.hds
 *.log
 template/
-workspace/
+workspace/*
+!*.txt
 master_glm/
 master_glm_run/
 *checkpoint.ipynb
